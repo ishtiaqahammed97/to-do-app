@@ -6,5 +6,5 @@ This is a to do application. User can simply add their daily task and after fini
 
 Tools that used for build this application:
 1.HTML 
-2.CSS 
-3.JavaScript
+ 2.CSS 
+ 3.JavaScript
